@@ -9,6 +9,8 @@ o site já está online aqui https://capitaocrunch.000webhostapp.com/
 </div>
 <br><br>
 <div align="center">
-  <h3>Se digitar a combinação correta, uma imagem aparece. Tem outras além da do papa</h3>
+  <h3>Se digitar a combinação correta, uma imagem aparece. Tem outras além da imagem do papa</h3>
   <img src="ImagensBB/2.png">
 </div>
+<br><br>
+<h3>Atividade feita para o fim do primeiro semestre de DS</h3>
